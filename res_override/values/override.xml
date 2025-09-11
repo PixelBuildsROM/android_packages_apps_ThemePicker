@@ -37,8 +37,8 @@
         <item>com.android.settings</item>
         <item>com.google.android.deskclock</item>
         <item>com.google.android.apps.messaging</item>
-        <item>com.google.android.contacts</item>
+        <item>com.android.contacts</item>
         <item>com.google.android.dialer</item>
-        <item>com.android.gallery3d</item>
+        <item>com.android.documentsui</item>
     </array>
 </resources>
